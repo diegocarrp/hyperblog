@@ -1,0 +1,19 @@
+Cosas para ver hoy:
+- Investigar requisitos para registro de marca
+    - Se posterga para cuando encontremos que Identity está listo para formar una empresa
+        - Definir criterio de aceptación
+- Ver pros y contras de crear una empresa en esta etapa
+    - Probablemente genere más problemas que ventajas en la etapa en la que nos encontramos actualmente
+- Corto y mediano plazo de Identity
+    - Realizar próximo pedido con inyección de capital
+    - Usar las ventas del stock actual a modo de caja chica
+- Benchmarking tanto para procesos como digital
+    - Stories para dar a conocer los productos
+- Contenido RRSS
+    - Instagram
+        - Generar plantillas para Stories
+        - Generar plantillas para Posts
+    - Facebook
+        - Utilizar con clon de Instagram en primera instancia
+            - Analizar el comportamiento en cuanto aumente la exposición de la marca
+- Ventas por Mercado Libre con comision normal
